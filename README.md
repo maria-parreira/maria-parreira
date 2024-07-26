@@ -9,7 +9,4 @@
 ## My Portfolio Page
 
 ## Connect with Me
-- [LinkedIn](#) (https://www.linkedin.com/in/maria-parreira-a85324123/)
 
-- If you like my projects and want to stay updated with my work, feel free to follow me on GitHub!
-[![Follow Me on GitHub](https://github.com/maria-parreira)

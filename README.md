@@ -2,7 +2,7 @@
 
 - 📗 I’m currently learning Java.
 - 💻 I recently completed a postgraduation at Instituto Superior de Engenharia do Porto (SWITCH Dev).
-- 🎯 My areas of interest include backend development, object-oriented programming (OOP), software design, and software architecture.
+- 🎯 My areas of interest include backend development, object-oriented programming (OOP), software design and architecture and DevOps.
 
 ## My Skills
 

@@ -1,6 +1,6 @@
 # Hello there 👋 I'm Maria
 
-- 📗 I’m currently learning Java.
+- 📗 I’m currently learning Java and React.
 - 💻 I recently completed a postgraduation at Instituto Superior de Engenharia do Porto (SWITCH Dev).
 - 🎯 My areas of interest include backend development, object-oriented programming (OOP), software design and architecture and DevOps.
 
@@ -18,7 +18,7 @@
 
 ## My Portfolio Page
 
-You can check here: https://maria-parreira.github.io/Portfolio/
+I'm currently working on my portfolio page.You can check here: https://maria-parreira.github.io/Portfolio/
 
 ## Connect with Me
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/83bdadf0-0518-4bb3-a296-ecff8ccef211)](https://www.linkedin.com/in/maria-parreira-a85324123/)

@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Maria
+# Hello there 👋 I'm Maria ![visitors](https://komarev.com/ghpvc/?username=maria-parreira)
 
 - 📗 I’m currently learning Java and React.
 - 💻 I recently completed a postgraduation at Instituto Superior de Engenharia do Porto (SWITCH Dev).

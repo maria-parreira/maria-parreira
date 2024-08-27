@@ -16,6 +16,8 @@
   <img src="https://github.com/user-attachments/assets/704ea1f5-a3e0-4b2e-aa3a-b92a8af796c3" alt="Unknown-2" width="70" height="70">
  <img src="https://github.com/user-attachments/assets/0221ccdc-9f75-44b3-a83f-33a9bc68a31f" alt="Unknown-2" width="70" height="70">
 
+ ## GitHub Activity
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact)
  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=maria-parreira&theme=default&hide_border=true)
 

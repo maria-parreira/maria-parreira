@@ -20,6 +20,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact)
  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=maria-parreira&theme=default&hide_border=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default)
 
 
 ## My Portfolio Page

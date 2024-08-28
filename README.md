@@ -12,10 +12,9 @@
   <img src="https://github.com/user-attachments/assets/5ac126d4-b1a9-45ac-beca-07678af5fe60" alt="Unknown-2" width="95" height="70">
   <img src="https://github.com/user-attachments/assets/3ec5a50b-c931-4c87-a7a6-089311ec7b28" alt="Unknown-2" width="95" height="70">
   <img src="https://github.com/user-attachments/assets/dfd03c04-3470-48f9-9ba3-8c8107a032ee" alt="Unknown-2" width="95" height="70">
-  <img src="https://github.com/user-attachments/assets/7cdc72ae-48b1-4261-a32c-22213f8cd474" alt="Unknown-2" width="45" height="45">
   <img src="https://github.com/user-attachments/assets/704ea1f5-a3e0-4b2e-aa3a-b92a8af796c3" alt="Unknown-2" width="70" height="70">
  <img src="https://github.com/user-attachments/assets/0221ccdc-9f75-44b3-a83f-33a9bc68a31f" alt="Unknown-2" width="70" height="70">
- <img src="https://github.com/user-attachments/assets/2aac0519-c906-45f7-a9c6-da6ddd5e45a9" alt="Unknown-2" width="75" height="60">
+ <img src="https://github.com/user-attachments/assets/2aac0519-c906-45f7-a9c6-da6ddd5e45a9" alt="Unknown-2" width="80" height="60">
 <img src="https://github.com/user-attachments/assets/a4b3c53c-cb83-40cd-b451-85f606b1b18e" alt="Unknown-2" width="80" height="80">
 
  ## GitHub Activity

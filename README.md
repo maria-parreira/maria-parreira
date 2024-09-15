@@ -46,7 +46,7 @@ I'm currently working on my portfolio page. You can check [here](https://maria-p
    
    **Database:** H2
 
-   **Containerization:** Dockerfile, Dockercompose, Kubernetes
+   **Containerization:** Dockerfile, Docker-compose, Kubernetes
  
    **Virtualization**: UTM, Ubuntu, Vagrantfile
 

@@ -12,10 +12,10 @@
 <img src="https://github.com/user-attachments/assets/f6de4dad-7c04-4083-9a9f-619d82f9be11" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/812bcc91-d9d3-4d0f-bd8f-b79cfd6e0166" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/c97158a1-36f0-4918-8a62-96ecede09c08" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/1a6bd125-7d4d-4612-8e46-3f689254006c" width="65" height="50">
+<img src="https://github.com/user-attachments/assets/1a6bd125-7d4d-4612-8e46-3f689254006c" width="70" height="50">
 <img src="https://github.com/user-attachments/assets/b5d7f9a7-7c92-48db-bc03-0822d0108f3f" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/d798c2f9-b1a0-450f-b44a-21cad6f489d2" width="50" height="50">
-
+<img src="https://github.com/user-attachments/assets/b062ecb5-5e84-4398-8c8a-e5814168615a" width="50" height="50">
 
  ## GitHub Activity
  

@@ -4,19 +4,18 @@
 - 💻 I recently completed a postgraduation at Instituto Superior de Engenharia do Porto (SWITCH Dev).
 - 🎯 My areas of interest include backend development, object-oriented programming (OOP), software design and architecture and DevOps.
 
-## My Skills
+## Some of My Skills
 
-  <img src="https://github.com/user-attachments/assets/b170a776-43f2-4cf7-a5d1-a1393a0673cc" alt="Unknown-2" width="70" height="70">
-  <img src="https://github.com/user-attachments/assets/9d0b53a6-95fb-407e-9b89-9d11c13e56ea" alt="Unknown-2" width="70" height="70">
-  <img src="https://github.com/user-attachments/assets/41bf678b-9819-4356-972f-eeaf5eb940d7" alt="Unknown-2" width="100" height="70">
-  <img src="https://github.com/user-attachments/assets/5ac126d4-b1a9-45ac-beca-07678af5fe60" alt="Unknown-2" width="95" height="70">
-  <img src="https://github.com/user-attachments/assets/3ec5a50b-c931-4c87-a7a6-089311ec7b28" alt="Unknown-2" width="95" height="70">
-  <img src="https://github.com/user-attachments/assets/dfd03c04-3470-48f9-9ba3-8c8107a032ee" alt="Unknown-2" width="95" height="70">
-  <img src="https://github.com/user-attachments/assets/704ea1f5-a3e0-4b2e-aa3a-b92a8af796c3" alt="Unknown-2" width="70" height="70">
- <img src="https://github.com/user-attachments/assets/0221ccdc-9f75-44b3-a83f-33a9bc68a31f" alt="Unknown-2" width="70" height="70">
- <img src="https://github.com/user-attachments/assets/2aac0519-c906-45f7-a9c6-da6ddd5e45a9" alt="Unknown-2" width="80" height="60">
-<img src="https://github.com/user-attachments/assets/a4b3c53c-cb83-40cd-b451-85f606b1b18e" alt="Unknown-2" width="80" height="80">
-<img src="https://github.com/user-attachments/assets/24cf2123-2a82-4b02-81a3-59b0b6b905c3" alt="Unknown-2" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/899d6979-d045-4b68-b622-01dae04488d6" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/7759516a-3382-4153-be92-673c0fb9dd1c" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/13995761-7588-4b8b-b3c8-696ec08ce48a" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/f6de4dad-7c04-4083-9a9f-619d82f9be11" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/812bcc91-d9d3-4d0f-bd8f-b79cfd6e0166" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/c97158a1-36f0-4918-8a62-96ecede09c08" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/1a6bd125-7d4d-4612-8e46-3f689254006c" width="65" height="50">
+<img src="https://github.com/user-attachments/assets/b5d7f9a7-7c92-48db-bc03-0822d0108f3f" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/d798c2f9-b1a0-450f-b44a-21cad6f489d2" width="50" height="50">
+
 
  ## GitHub Activity
  
@@ -30,6 +29,8 @@ I'm currently working on my portfolio page. You can check [here](https://maria-p
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/83bdadf0-0518-4bb3-a296-ecff8ccef211)](https://www.linkedin.com/in/maria-parreira-a85324123/)
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/e1f8511b-42f4-4131-be19-c2a6638eeeab)](mailto:mariaparreira71@gmail.com)
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/6157e63b-51df-4d6b-8f3d-d0c4c173b086)](https://github.com/maria-parreira)
+
+
 
 
 

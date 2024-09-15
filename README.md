@@ -22,9 +22,6 @@
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact" width="300" height="300"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-parreira&theme=default&hide_border=true" width="300" height="300"> <img src="https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default" width="300" height="300">
 
-
-
-
 ## My Portfolio Page
 
 I'm currently working on my portfolio page. You can check [here](https://maria-parreira.github.io/Portfolio/) 👈

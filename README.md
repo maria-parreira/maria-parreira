@@ -1,7 +1,9 @@
 # Hello there 👋 I'm Maria ![visitors](https://komarev.com/ghpvc/?username=maria-parreira)
 
-- 📗 I’m currently learning Java, Javascript and React.
-- 💻 I recently completed a postgraduation at Instituto Superior de Engenharia do Porto (SWITCH Dev).
+- 📗 I’m learning Java, Javascript and React.
+  
+- 💻 Completed a postgraduation at Instituto Superior de Engenharia do Porto (SWITCH Dev).
+  
 - 🎯 My areas of interest include backend development, object-oriented programming (OOP), software design and architecture and DevOps.
 
 ## Some of My Skills

@@ -19,10 +19,10 @@
 <img src="https://github.com/user-attachments/assets/24cf2123-2a82-4b02-81a3-59b0b6b905c3" alt="Unknown-2" width="80" height="80">
 
  ## GitHub Activity
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact" width="300" height="300"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maria-parreira&theme=default&hide_border=true" width="300" height="300"> <img src="https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default" width="300" height="300">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact)
- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=maria-parreira&theme=default&hide_border=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default)
+
 
 
 ## My Portfolio Page

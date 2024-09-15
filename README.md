@@ -25,6 +25,35 @@
 
 I'm currently working on my portfolio page. You can check [here](https://maria-parreira.github.io/Portfolio/) 👈
 
+## Backend Projects
+
+1. **[Lost And Found Project](https://github.com/maria-parreira/lost-and-found)** 👈
+   
+    **Pragramming Language**: Javascript
+    
+    **Framework**: Express
+    
+    **Database**: MongoDB
+
+
+## DevOps Projects
+
+1. **[Class Assignments](https://github.com/maria-parreira/devops-switch-dev)** 👈
+
+   **Programming languages:** Java, Javascript
+   
+   **Framework:** Spring boot , React
+   
+   **Database:** H2
+
+   **Containerization:** Dockerfile, Dockercompose, Kubernetes
+ 
+   **Virtualization**: UTM, Ubuntu, Vagrantfile
+
+   **CI/CD:** Jenkinsfile
+
+
+
 ## Connect with Me
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/83bdadf0-0518-4bb3-a296-ecff8ccef211)](https://www.linkedin.com/in/maria-parreira-a85324123/)
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/e1f8511b-42f4-4131-be19-c2a6638eeeab)](mailto:mariaparreira71@gmail.com)

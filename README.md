@@ -69,7 +69,7 @@
 
 ## GitHub Activity
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact" width="300" height="300"><img src="https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default" width="400" height="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact" width="300" height="300"><img src="https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default" width="300" height="300">
 
 ## Connect with Me
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/83bdadf0-0518-4bb3-a296-ecff8ccef211)](https://www.linkedin.com/in/maria-parreira-a85324123/)

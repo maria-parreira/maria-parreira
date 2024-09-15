@@ -46,6 +46,21 @@
    **CI/CD:** Jenkinsfile
 
 
+## Fullstack Projects
+
+1. **[Smart Home web application](https://github.com/maria-parreira/smarthome-switch-dev)**
+
+   **Programming languages:** Java, Javascript
+   
+   **Framework:** Spring boot , React
+   
+   **Database:** MariaBD
+
+   **Containerization:** Dockerfile
+
+   **Test coverege:**
+
+
 ## My Portfolio Page
 
 - I'm currently working on my portfolio page. You can check [here](https://maria-parreira.github.io/Portfolio/) 👈

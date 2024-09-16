@@ -64,9 +64,11 @@
 
 
 
-## My Portfolio Page
+## Frontend Projects
 
-- I'm currently working on my portfolio page. You can check [here](https://maria-parreira.github.io/Portfolio/) 👈
+1. **[Personal Page](https://maria-parreira.github.io/Portfolio/) 👈**
+
+- I'm currently working on this page using React, Typescript and CSS.
 
 
 ## GitHub Activity

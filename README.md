@@ -50,7 +50,7 @@
 
 ## Fullstack Projects
 
-1. **[Smart Home web application](https://github.com/maria-parreira/smarthome-switch-dev)**
+1. **[Smart Home web application](https://github.com/maria-parreira/smarthome-switch-dev)👈**
 
    **Programming languages:** Java, Javascript
    

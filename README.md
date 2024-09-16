@@ -71,6 +71,7 @@
 1. **[Personal Page](https://maria-parreira.github.io/Portfolio/) 👈**
 
 - I'm currently working on this page using React, Typescript and CSS.
+**Deploy:** with GitHub pages 
 
 
 ## GitHub Activity

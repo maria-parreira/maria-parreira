@@ -39,8 +39,10 @@
 
    **Programming languages:** Java, Javascript
    
-   **Framework:** Spring boot , React
-   
+   **Framework:** Spring boot
+
+   **Library:** React
+      
    **Database:** H2
 
    **Containerization:** Dockerfile, Docker-compose, Kubernetes
@@ -56,7 +58,9 @@
 
    **Programming languages:** Java, Javascript
    
-   **Framework:** Spring boot , React
+   **Framework:** Spring boot
+
+    **Library:** React
    
    **Database:** MariaBD
 

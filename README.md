@@ -1,10 +1,8 @@
 # Hello there 👋 I'm Maria ![visitors](https://komarev.com/ghpvc/?username=maria-parreira)
-
-- 📗 I’m learning Java, Javascript and React.
   
 - 💻 Completed a postgraduation at Instituto Superior de Engenharia do Porto (SWITCH Dev).
   
-- 🎯 My areas of interest include backend development, object-oriented programming (OOP), software design and architecture and DevOps.
+- 🎯 My areas of interest include backend development, object-oriented programming, software design and architecture and DevOps.
 
 ## Some of My Skills
 
@@ -24,58 +22,25 @@
 
 ## Backend Projects
 
-1. **[Lost And Found Project](https://github.com/maria-parreira/lost-and-found)** 👈
-   
-    **Pragramming Language**: Javascript
-    
-    **Framework**: Express
-    
-    **Database**: MongoDB
-
+1. **[Lost And Found Project](https://github.com/maria-parreira/lost-and-found)**
 
 ## DevOps Projects
 
-1. **[Class Assignments](https://github.com/maria-parreira/devops-switch-dev)** 👈
-
-   **Programming languages:** Java, Javascript
-   
-   **Framework:** Spring boot
-
-   **Library:** React
-      
-   **Database:** H2
-
-   **Containerization:** Dockerfile, Docker-compose, Kubernetes
- 
-   **Virtualization**: UTM, Ubuntu, Vagrantfile
-
-   **CI/CD:** Jenkinsfile
+1. **[Class Assignments](https://github.com/maria-parreira/devops-switch-dev)** 
 
 
 ## Fullstack Projects
 
-1. **[Smart Home web application](https://github.com/maria-parreira/smarthome-switch-dev)👈**
-
-   **Programming languages:** Java, Javascript
-   
-   **Framework:** Spring boot
-
-    **Library:** React
-   
-   **Database:** MariaBD
-
-   **Containerization:** Dockerfile
+1. **[Smart Home web application](https://github.com/maria-parreira/smarthome-switch-dev)**
 
    **Test coverege:** 94% [Coverage Report > Summary.pdf](https://github.com/user-attachments/files/17033821/Coverage.Report.Summary.pdf)
 
 
 ## Frontend Projects
 
-1. **[Personal Page](https://maria-parreira.github.io/Portfolio/) 👈**
+1. **[Personal Page](https://maria-parreira.github.io/Portfolio/)**
 
-I'm currently working on this page using React, Typescript and Tailwind CSS.
-
-**Deploy:** with GitHub pages 
+  **Deploy:** with GitHub pages 
 
 
 ## GitHub Activity

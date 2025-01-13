@@ -42,7 +42,7 @@
 
   **Deploy:** with GitHub pages 
 
-2.*[Pipe Mania](https://github.com/maria-parreira/pipe_mania_game)*
+2.**[Pipe Mania](https://github.com/maria-parreira/pipe_mania_game)**
 
 
 ## GitHub Activity

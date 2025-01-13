@@ -38,11 +38,9 @@
 
 ## Frontend Projects
 
-1. **[Personal Page](https://maria-parreira.github.io/Portfolio/)**
+1. **[Personal Page](https://maria-parreira.github.io/Portfolio/)**  **Deploy:** with GitHub pages 
 
-  **Deploy:** with GitHub pages 
-
-2.**[Pipe Mania](https://github.com/maria-parreira/pipe_mania_game)**
+2. **[Pipe Mania](https://github.com/maria-parreira/pipe_mania_game)**
 
 
 ## GitHub Activity

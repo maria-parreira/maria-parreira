@@ -37,7 +37,9 @@
 
 ## GitHub Activity
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact" width="300" height="300"><img src="https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default" width="300" height="300">
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact&hide=html) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default) |
+|---|---|
+
 
 ---
 

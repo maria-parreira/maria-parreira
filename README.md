@@ -1,9 +1,9 @@
 # Hello there 👋 I'm Maria ![visitors](https://komarev.com/ghpvc/?username=maria-parreira)
   
-- 💻 Software Development at Instituto Superior de Engenharia do Porto (SWITCH Dev).
-  
+- 💻 Not always have I been into coding, but since I was a child I loved technology. I completed a Software Development PostGrad at Instituto Superior de Engenharia do Porto (SWITCH Dev).
+- 🌍  I'm based in Porto, Portugal.
+- 🧠  I'm learning how to become a better developer.
 - 🎯 My areas of interest include backend development, object-oriented programming, software design and architecture and DevOps.
-
 
 ---
 

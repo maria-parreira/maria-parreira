@@ -23,9 +23,9 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-| 🧩 Type       | 📁 Project                | 🔗 Link                                                          | 🧪 Notes / Coverage                                                                       | 🚀 Deploy                                                   |
+|  Type       |  Project                |  Link                                                          |  Notes / Coverage                                                                       |  Deploy                                                   |
 | ------------- | ------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **Backend**   | Lost and Found            | [GitHub](https://github.com/maria-parreira/lost-and-found)       | –                                                                                         | –                                                           |
 | **DevOps**    | Class Assignments         | [GitHub](https://github.com/maria-parreira/devops-switch-dev)    | –                                                                                         | –                                                           |

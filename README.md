@@ -4,6 +4,9 @@
   
 - 🎯 My areas of interest include backend development, object-oriented programming, software design and architecture and DevOps.
 
+
+---
+
 ## Some of My Skills
 
 <img src="https://github.com/user-attachments/assets/899d6979-d045-4b68-b622-01dae04488d6" width="50" height="50">
@@ -18,36 +21,26 @@
 <img src="https://github.com/user-attachments/assets/b062ecb5-5e84-4398-8c8a-e5814168615a" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/3171ab60-d834-4c52-9489-b08457e53747" width="50" height="50">
 
+---
 
+## 🚀 Projects
 
-## Backend Projects
+| 🧩 Type       | 📁 Project                | 🔗 Link                                                          | 🧪 Notes / Coverage                                                                       | 🚀 Deploy                                                   |
+| ------------- | ------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Backend**   | Lost and Found            | [GitHub](https://github.com/maria-parreira/lost-and-found)       | –                                                                                         | –                                                           |
+| **DevOps**    | Class Assignments         | [GitHub](https://github.com/maria-parreira/devops-switch-dev)    | –                                                                                         | –                                                           |
+| **Fullstack** | Smart Home Web App        | [GitHub](https://github.com/maria-parreira/smarthome-switch-dev) | 94% [PDF](https://github.com/user-attachments/files/17033821/Coverage.Report.Summary.pdf) | –                                                           |
+| **Frontend**  | Personal Page (Portfolio) | [GitHub](https://github.com/maria-parreira/Portfolio)            | –                                                                                         | [GitHub Pages](https://maria-parreira.github.io/Portfolio/) |
+| **Frontend**  | Pipe Mania Game           | [GitHub](https://github.com/maria-parreira/pipe_mania_game)      | –                                                                                         | –                                                           |
 
-1. **[Lost And Found Project](https://github.com/maria-parreira/lost-and-found)**
-
-## DevOps Projects
-
-1. **[Class Assignments](https://github.com/maria-parreira/devops-switch-dev)** 
-
-
-## Fullstack Projects
-
-1. **[Smart Home web application](https://github.com/maria-parreira/smarthome-switch-dev)**
-
-   **Test coverege:** 94% [Coverage Report > Summary.pdf](https://github.com/user-attachments/files/17033821/Coverage.Report.Summary.pdf)
-
-
-## Frontend Projects
-
-1. **[Personal Page](https://maria-parreira.github.io/Portfolio/)**  **Deploy:** with GitHub pages 
-
-2. **[Pipe Mania](https://github.com/maria-parreira/pipe_mania_game)**
-
+---
 
 ## GitHub Activity
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-parreira&layout=compact" width="300" height="300"><img src="https://github-readme-stats.vercel.app/api?username=maria-parreira&show_icons=true&theme=default" width="300" height="300">
 
+---
+
 ## Connect with Me
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/83bdadf0-0518-4bb3-a296-ecff8ccef211)](https://www.linkedin.com/in/maria-parreira-a85324123/)
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/e1f8511b-42f4-4131-be19-c2a6638eeeab)](mailto:mariaparreira71@gmail.com)
-[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/6157e63b-51df-4d6b-8f3d-d0c4c173b086)](https://github.com/maria-parreira)

@@ -4,7 +4,7 @@
 - 🌍  I'm based in Porto, Portugal.
 - 🧠  I'm learning how to become a better developer.
 - 🎯 My areas of interest include backend development, object-oriented programming, software design and architecture and DevOps.
-- Currently working at [Vertsa Play](https://www.linkedin.com/company/vertsaplay/)
+- Currently working at
 
 ---
 
